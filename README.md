@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Vermahimanshi/Vermahimanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Himanshi 👋
 
-Here are some ideas to get you started:
+Full-stack developer building AI-powered applications and scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+Frontend: React, Next.js, Tailwind
+Backend: Node.js, Express, Spring Boot
+Database: MongoDB, MySQL
+Tools: Git, Postman, AWS
+
+---
+
+## 🧠 Featured Work
+
+**MindSpace – AI Mental Health Platform**
+AI-based system with chatbot and risk detection
+
+🔗 https://mind-space-layout.netlify.app/
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Vermahimanshi\&show_icons=true)
