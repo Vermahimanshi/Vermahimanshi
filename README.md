@@ -21,8 +21,3 @@ AI-based system with chatbot and risk detection
 
 🔗 https://mind-space-layout.netlify.app/
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Vermahimanshi\&show_icons=true)
