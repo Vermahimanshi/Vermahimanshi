@@ -7,8 +7,11 @@ Full-stack developer building AI-powered applications and scalable backend syste
 ## 🚀 Tech Stack
 
 Frontend: React, Next.js, Tailwind
+
 Backend: Node.js, Express, Spring Boot
+
 Database: MongoDB, MySQL
+
 Tools: Git, Postman, AWS
 
 ---
@@ -44,7 +47,7 @@ Email: [vermahimanshi49@gmail.com](mailto:vermahimanshi49@gmail.com)
 
 ## 📄 Resume
 
-[(Add your Google Drive resume link here)
+[(resume)
 ](https://drive.google.com/file/d/1DT22T5HVyHV47-0YVE8W5iRxSvJWfv-k/view?usp=sharing)
 ---
 
